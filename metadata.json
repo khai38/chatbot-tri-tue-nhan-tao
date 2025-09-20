@@ -1,0 +1,5 @@
+{
+  "name": "Sổ Tay Nguồn AI",
+  "description": "Một ứng dụng tương tự như NotebookLM của Google, nơi bạn có thể thêm các nguồn tài liệu văn bản của riêng mình và đặt câu hỏi cho AI dựa trên thông tin cụ thể đó. AI sẽ cung cấp câu trả lời kèm theo trích dẫn từ tài liệu của bạn.",
+  "requestFramePermissions": []
+}
